@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "cwd": "${workspaceFolder}/exercise_numpy"
+            "cwd": "${workspaceFolder}/aula-03-mar/nn-incomplete"
         }
     ]
 }
